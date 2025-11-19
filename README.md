@@ -66,5 +66,3 @@ nn-from-scratch/
 * Compare performance with TensorFlow/Keras.
 
 ---
-
-Stay tuned for updates!
